@@ -40,7 +40,7 @@ public class Queue {
 
         stack.addElement(56);
         stack.addElement(30);
-        stack.addElement(76);
+        stack.addElement(70);
 
 
         stack.display();
